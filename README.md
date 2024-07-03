@@ -5,7 +5,10 @@
 
 <img align="right" alt="datascience" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 💬 **About me:** A versatile data professional with 3 years of experience and a passion for transforming raw data into compelling stories and actionable insights. My journey spans the realms of data science, analytics, and machine learning, allowing me to tackle diverse challenges with a data-driven approach.
+- 💬 **About me:** A versatile data professional with 3 years of experience and a passion for transforming raw data into compelling stories and actionable insights.
+  
+- 📈 **Professioanl Highlight:**
+  - **Data Analyst:** Tata Technologies Limites,Pune (2021- Present)
 
 - 🌱 **Currently exploring:** Advanced Machine Learning, Natural Language Processing, Big Data Analytics, and Data Warehousing.
 
@@ -13,12 +16,6 @@
 
 - 💻 **Technical skills:** Python, SQL, Power BI, Tableau, TensorFlow, Scikit-Learn, Excel, Hadoop, and Spark.
 
-- 📈 **Experienced in:**
-  - Building predictive models and machine learning algorithms.
-  - Performing hypothesis testing.
-  - Creating interactive dashboards and visualizations.
-  - Conducting deep statistical analyses and trend forecasting.
-  - Implementing ETL processes and managing large datasets.
 
 - 📊 **Data Science highlights:**
   - Developed classification and regression models to solve complex business problems.
