@@ -1,4 +1,3 @@
-![logo](https://github.com/kalpesh18281999/kalpesh18281999/blob/main/DA1.jpg)
 
 <h1 align="center">Hi 👋, I'm Kalpesh Patil</h1>
 <h3 align="center">Data Scientist | Data Analyst | Machine Learning Enthusiast | Data Storyteller</h3>
@@ -8,14 +7,13 @@
 - 💬 **About me:** A versatile data professional with 3 years of experience and a passion for transforming raw data into compelling stories and actionable insights.
   
 - 📈 **Professioanl Highlight:**
-  - **Data Analyst:** Tata Technologies Limites,Pune (2021- Present)
+  - **Data Analyst:** Tata Technologies Limited,Pune (2021- Present)
 
 - 🌱 **Currently exploring:** Advanced Machine Learning, Natural Language Processing, Big Data Analytics, and Data Warehousing.
 
 - 🔍 **Data Analyst expertise in:** Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Business Intelligence, and Reporting.
 
 - 💻 **Technical skills:** Python, SQL, Power BI, Tableau, TensorFlow, Scikit-Learn, Excel, Hadoop, and Spark.
-
 
 - 📊 **Data Science highlights:**
   - Developed classification and regression models to solve complex business problems.
